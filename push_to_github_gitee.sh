@@ -39,7 +39,7 @@ git init
 
 git add .
 
-git remote add gitee https://gitee.com/woo-rookie/ur3_easy_handeye.git
+# git remote add gitee https://gitee.com/woo-rookie/ur3_easy_handeye.git
 git remote add github https://github.com/woo-rookie/ur3_easy_handeye.git
 
 git commit -m "$(date)"
@@ -47,7 +47,7 @@ git commit -m "$(date)"
 # git pull gitee master
 # git pull github master
 
-git push gitee master
+# git push gitee master
 git push github master
 
 
